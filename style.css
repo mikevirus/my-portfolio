@@ -1,5 +1,6 @@
 body {
-  font-family: 'Raleway', sans-serif;
+/*   font-family: 'Raleway', sans-serif; */
+  font-family: 'Poppins', sans-serif;
   background: rgba(242, 242, 242, .6);
   margin: 0;
 }
@@ -10,7 +11,8 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: #31b0d5;
+/*   background-color: #31b0d5; */
+  background-color: #f76b1d;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -35,7 +37,8 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
-  background: #31b0d5; /*background color to blue*/
+  /*background: #31b0d5; background color to blue*/
+  background: #f76b1d;
   margin-bottom: 0; /*no bottom margin*/
 
   display: flex;
