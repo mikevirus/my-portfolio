@@ -38,7 +38,8 @@ body {
 .jumbotron {
   height: 100vh; /*height to 100% of view height*/
   /*background: #31b0d5; background color to blue*/
-  background: #f76b1d;
+  background: linear-gradient(135deg, #F76B1D 0%, #F76B1D 30%, #ffb631 100%) fixed;
+/*   background: #f76b1d; */
   margin-bottom: 0; /*no bottom margin*/
 
   display: flex;
